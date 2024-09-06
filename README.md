@@ -20,8 +20,8 @@ This is a simple Spring Boot application demonstrating basic CRUD (Create, Read,
 
 **Clone the repository**:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/chandrakanthrck/springboot-crud-example)
+cd springboot-crud-example
 ```
 ### Run the application:
 
